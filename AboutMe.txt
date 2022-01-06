@@ -13,3 +13,12 @@ gaming
 astronomy
 nuclear physics
 robotics
+
+The Subjects that I study in CHS:
+1) Introduction to computer sciences
+2) Networkking and Cybersecurity
+3) Physics
+4) Introduction to english studies
+5) Geometry Honors
+6) Algebra Honors
+7) Global studies
