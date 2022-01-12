@@ -1,2 +1,2 @@
 # ITCC
-This is just a random Github random repository
+This is just a random Github repository
